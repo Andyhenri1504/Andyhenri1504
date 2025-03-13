@@ -12,9 +12,10 @@
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andyhenri1504&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andyhenri1504&show_icons=true&theme=dracula)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyhenri1504&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andyhenri1504&show_icons=true&theme=dracula"/>
+</div>
 
 
 <!--
